@@ -12,10 +12,9 @@ Eğitim ve Test Setlerinin Ayrılması: Verilerin bir kısmı modeli eğitmek i�
 Modelin Performansının Değerlendirilmesi:MAE (Ortalama Mutlak Hata) hata ölçütünü kullandım.
 5. Tahminlerin Yapılması:​
 Kurulan modelde bulunmayan 2020'nin 8 aylık elektrik tüketimini tahmin ettim.
-![Alt text](<Ekran Görüntüsü (182).png>)
-![Alt text](<Ekran Görüntüsü (183).png>)
-![Alt text](<Ekran Görüntüsü (185).png>)
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)# Power_Consumption_Prediction
+
+![Alt text](image-4.png)
+![Alt text](<Ekran Görüntüsü (183)-1.png>)
+![Alt text](<indir (2).png>)
+![Alt text](<indir (1).png>)
+![Alt text](indir.png)
